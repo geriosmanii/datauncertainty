@@ -1,0 +1,25 @@
+    1  ls
+    2  ls -l
+    3  cd GitExamples
+    4  ls
+    5  cd
+    6  cd GitExamples
+    7  git clone https://github.com/geriosmanii/datauncertainty.git
+    8  cd datauncertainty
+    9  nano test
+   10  nano test.txt
+   11  git add -A
+   12  git commit -m "Showing the class github"
+   13  git commit -m "Showing the class github"
+   14  git config --global user.email "gosmani@email.wm.edu"
+   15  git config --global user.email "gosmani@email.wm.edu" user.name "geriosmanii"
+   16  git commit -m "Showing the class github"
+   17  git config --global user.email "gosmani@email.wm.edu"
+   18  git config --global user.name "geriosmanii"
+   19  git commit -m "Showing the class github"
+   20  git commit -m "Showing the class github"
+   21  git push
+   22  nano test
+   23  git pull
+   24  history
+   25  history > todays_commands.txt
